@@ -1,0 +1,1 @@
+txt streamlit google-generativeai requests pandas openpyxl
