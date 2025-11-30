@@ -1,1 +1,5 @@
-txt streamlit google-generativeai requests pandas openpyxl
+streamlit
+google-generativeai
+requests
+pandas
+openpyxl
